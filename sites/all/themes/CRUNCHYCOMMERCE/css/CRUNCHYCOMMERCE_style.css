@@ -3,7 +3,7 @@
 
 body {
     background-color: #fcf9ec;
-    background-color: #FFFEFA;
+    /*background-color: #FFFEFA;*/
 }
 
 .view-collection-products .view-header, .view-collection-taxonomy-term .view-header {
@@ -23,7 +23,11 @@ body {
     background-color: #585443;
 }
 
-.navigation .primary-menu ul li a {
-  background-color: #585443;
-  color: #FFFFFF;
+/*.navigation .primary-menu ul li a {
+    background-color: #585443;
+    color: #FFFFFF;
 }
+
+.second-menu ul li a {
+    border-color : #585443;
+  }*/
