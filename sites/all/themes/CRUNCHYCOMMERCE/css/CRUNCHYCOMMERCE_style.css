@@ -1,0 +1,33 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+
+body {
+    background-color: #fcf9ec;
+    /*background-color: #FFFEFA;*/
+}
+
+.view-collection-products .view-header, .view-collection-taxonomy-term .view-header {
+    background-color: #B6AE8A;
+}
+
+.view-collection-taxonomy-term .view-content .item-list h3 .collection a {
+    color: #D7D1BA;
+
+}
+
+#zone-user-wrapper, #zone-footer-wrapper {
+    background-color: #B6AE8A;
+}
+
+#zone-footer2-wrapper {
+    background-color: #585443;
+}
+
+/*.navigation .primary-menu ul li a {
+    background-color: #585443;
+    color: #FFFFFF;
+}
+
+.second-menu ul li a {
+    border-color : #585443;
+  }*/
