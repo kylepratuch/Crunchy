@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the Granola Taxonomy feature.
  */
+
+include_once 'granola_taxonomy.features.inc';
